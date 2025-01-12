@@ -110,7 +110,7 @@ mutation {
 ## Project Structure
 
 ```
-Kpi_simulator_AirFlow/
+Kpi_simulator_GraphQL/
 ├── kpl_simulator/
 │   ├── __init__.py
 │   ├── asgi.py
