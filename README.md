@@ -36,18 +36,18 @@ Before you begin, ensure you have the following installed:
    ```
 
 
-4. **Set up the database**:
+2. **Set up the database**:
    - Run migrations:
      ```bash
      python manage.py migrate
      ```
 
-5. **Run the development server**:
+3. **Run the development server**:
    ```bash
    python manage.py runserver
    ```
 
-6. **Access the GraphQL API**:
+4. **Access the GraphQL API**:
    - Open your browser and navigate to `http://localhost:8000/graphql/`.
    - Use the GraphiQL interface to interact with the API.
 
