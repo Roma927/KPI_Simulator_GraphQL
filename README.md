@@ -129,6 +129,5 @@ Kpi_simulator_GraphQL/
 │   ├── urls.py
 │   ├── views.py
 ├── manage.py
-├── requirements.txt
 └── README.md
 ```
